@@ -1,6 +1,8 @@
 # Parallax-Web-Page-Template
 Parallax design template for a web page created with HTML, CSS, and JS.
 
+To see the code in action: https://codepen.io/Thanushan0207/pen/PoymLvr
+
 Steps:
 1. First download all the files.
 2. Then use any choice of code editor to open the HTML, CSS, and JS files.
